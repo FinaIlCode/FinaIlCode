@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FinaIlCode
 - 👀 I’m interested in computer science, more precisely in development.
-- 🌱 I’m currently learning back-end development
+- 🌱 I’m currently studying in Lycée Suzanne Valadon in BTS SIO.
 - 📫 How to reach me : delo.theo@hotmail.fr
 
 <!---
